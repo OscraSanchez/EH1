@@ -4,8 +4,6 @@ Primer ejercicio de preguntas
 
 1. ¿Qué es una página web?
 
-Es un sitio virtual al que puedes acceder desde internet para obtener informacion
-Respuesta.
 
 
 2. ¿Qué es un sitio web?
